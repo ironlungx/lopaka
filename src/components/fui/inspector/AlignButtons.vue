@@ -10,7 +10,7 @@ const tools = [
     },
     {
         type: 'align_center_h',
-        title: 'Align horisontal centers',
+        title: 'Align horizontal centers',
         icon: 'align_center_h',
     },
     {
